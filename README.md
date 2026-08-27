@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Hi, I'm PrantikFello 👋
 
-First, run the development server:
+Full-stack developer focused on building scalable distributed systems, high-performance desktop apps, and edge-native web architectures.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🛠️ Tech Stack & Ecosystem
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Languages & Systems**
+- **Core:** Java, Kotlin, JS, TS
+- **Backend & Cloud:** Spring Boot, Cloudflare Workers / OpenNext, Docker
+- **Frontend & UI:** Next.js, React, Tailwind CSS, Jetpack Compose
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Architecture & Systems Focus**
+- Distributed systems & resilient backend design
+- Edge computing & serverless deployment pipelines
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+### 🚀 Featured Focus Areas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Systems Programming:** Building cross-platform desktop and mobile clients with memory safety and high throughput.
+- **Edge Deployment:** Deploying full-stack web applications on globally distributed serverless environments.
+- **Agroforestry & Open Data Tools:** Engineering practical calculation engines, plant repositories, and data trackers.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+### 📊 GitHub Stats
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Prantik's GitHub Stats" />
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+### 📬 Connect
+- **LinkedIn:** [go](https://www.linkedin.com/in/prantik-roy-32511a286)
+- **Email:** xyz
