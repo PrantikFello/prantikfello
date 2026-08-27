@@ -8,6 +8,7 @@
   ],
   "assets": {
     "directory": ".open-next/assets",
-    "binding": "ASSETS"
-  }
+    "binding": "ASSETS",
+  },
+  "workers_dev": true
 }
