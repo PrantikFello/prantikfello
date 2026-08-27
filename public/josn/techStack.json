@@ -1,0 +1,214 @@
+{
+    "centerButton": {
+        "label": "Engineering Core",
+        "tooltip": "System Architect"
+    },
+    "orbits": [
+        {
+            "tier": "languages",
+            "radius": 130,
+            "speed": 1.1,
+            "reverse": false,
+            "iconSize": 40,
+            "items": [
+                {
+                    "id": "html5",
+                    "name": "HTML5",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                },
+                {
+                    "id": "css3",
+                    "name": "CSS3",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                },
+                {
+                    "id": "javascript",
+                    "name": "JavaScript",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                },
+                {
+                    "id": "typescript",
+                    "name": "TypeScript",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+                },
+                {
+                    "id": "java",
+                    "name": "Java",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+                },
+                {
+                    "id": "kotlin",
+                    "name": "Kotlin",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+                },
+                {
+                    "id": "cpp",
+                    "name": "C++",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+                },
+                {
+                    "id": "json",
+                    "name": "JSON",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"
+                },
+                {
+                    "id": "markdown",
+                    "name": "Markdown",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"
+                }
+            ]
+        },
+        {
+            "tier": "frameworks_and_ui",
+            "radius": 210,
+            "speed": 0.8,
+            "reverse": true,
+            "iconSize": 41,
+            "items": [
+                {
+                    "id": "react",
+                    "name": "React.js",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                },
+                {
+                    "id": "nextjs",
+                    "name": "Next.js",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+                },
+                {
+                    "id": "vite",
+                    "name": "Vite",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
+                },
+                {
+                    "id": "tailwindcss",
+                    "name": "Tailwind CSS",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+                },
+                {
+                    "id": "shadcn",
+                    "name": "shadcn/ui",
+                    "iconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/shadcnui.svg"
+                },
+                {
+                    "id": "radixui",
+                    "name": "Radix UI",
+                    "iconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/radixui.svg"
+                },
+                {
+                    "id": "flowbite",
+                    "name": "Flowbite",
+                    "iconUrl": "https://flowbite.com/images/logo.svg"
+                },
+                {
+                    "id": "spring",
+                    "name": "Spring Boot",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+                },
+                {
+                    "id": "jetpackcompose",
+                    "name": "Jetpack Compose",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg"
+                },
+                {
+                    "id": "arduino",
+                    "name": "Arduino",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+                },
+                {
+                    "id": "bun",
+                    "name": "Bun",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg"
+                },
+                {
+                    "id": "gradle",
+                    "name": "Gradle",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"
+                }
+            ]
+        },
+        {
+            "tier": "databases_and_infra",
+            "radius": 290,
+            "speed": 0.55,
+            "reverse": false,
+            "iconSize": 42,
+            "items": [
+                {
+                    "id": "postgresql",
+                    "name": "PostgreSQL",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+                },
+                {
+                    "id": "redis",
+                    "name": "Redis",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+                },
+                {
+                    "id": "sqlite",
+                    "name": "SQLite",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+                },
+                {
+                    "id": "ubuntu",
+                    "name": "Ubuntu Desktop",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
+                },
+                {
+                    "id": "ubuntuserver",
+                    "name": "Ubuntu Server",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+                },
+                {
+                    "id": "github",
+                    "name": "GitHub",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+                },
+                {
+                    "id": "cloudflare",
+                    "name": "Cloudflare",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg"
+                }
+            ]
+        },
+        {
+            "tier": "tools_and_studio",
+            "radius": 370,
+            "speed": 0.35,
+            "reverse": true,
+            "iconSize": 44,
+            "items": [
+                {
+                    "id": "vscode",
+                    "name": "VS Code",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+                },
+                {
+                    "id": "insomnia",
+                    "name": "Insomnia",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg"
+                },
+                {
+                    "id": "lunacy",
+                    "name": "Lunacy (Icons8)",
+                    "iconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/lunacy.svg"
+                },
+                {
+                    "id": "libreoffice",
+                    "name": "LibreOffice",
+                    "iconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/libreoffice.svg"
+                },
+                {
+                    "id": "androidstudio",
+                    "name": "Android Studio",
+                    "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
+                },
+                {
+                    "id": "kobotoolbox",
+                    "name": "KoboToolbox",
+                    "iconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kobotoolbox.svg"
+                }
+            ]
+        }
+    ]
+}

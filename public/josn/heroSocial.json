@@ -1,0 +1,28 @@
+{
+    "heroLinks": [
+        {
+            "platform": "github",
+            "url": "https://github.com/your-username"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://linkedin.com/in/your-username"
+        },
+        {
+            "platform": "youtube",
+            "url": "https://youtube.com/@your-channel"
+        },
+        {
+            "platform": "telegram",
+            "url": "https://t.me/your-username"
+        },
+        {
+            "platform": "whatsapp",
+            "url": "https://wa.me/your-number"
+        },
+        {
+            "platform": "email",
+            "url": "mailto:prantik@example.co"
+        }
+    ]
+}

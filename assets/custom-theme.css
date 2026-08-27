@@ -1,0 +1,82 @@
+/* ==========================================================================
+   CUSTOM THEME TOKENS
+   ========================================================================== */
+@theme inline {
+  --color-accent-alpha: var(--accent-alpha);
+  --color-accent-beta: var(--accent-beta);
+
+  --color-alpha: var(--alpha);
+  --color-alpha-1: var(--alpha-1);
+  --color-alpha-2: var(--alpha-2);
+  --color-alpha-3: var(--alpha-3);
+  --color-alpha-4: var(--alpha-4);
+  --color-alpha-5: var(--alpha-5);
+  --color-alpha-6: var(--alpha-6);
+  --color-alpha-7: var(--alpha-7);
+
+  --color-beta: var(--beta);
+  --color-beta-1: var(--beta-1);
+  --color-beta-2: var(--beta-2);
+  --color-beta-3: var(--beta-3);
+  --color-beta-4: var(--beta-4);
+  --color-beta-5: var(--beta-5);
+  --color-beta-6: var(--beta-6);
+
+  --color-link-number: var(--link-number);
+  --color-link-text: var(--link-text);
+}
+
+:root {
+  --accent-alpha: rgb(0 225 153);
+  --accent-beta: rgb(225 105 0);
+  --omni-bg: #f5f5f5;
+  --omni-txt: #000;
+  --adaptive-padding: clamp(5px, 0px + 3vw, 30px);
+
+  --alpha: #fff;
+  --alpha-1: #fbfbfb;
+  --alpha-2: #fff;
+  --alpha-3: #f8f8f8;
+  --alpha-4: #f8f8f8;
+  --alpha-5: #f5f5f5;
+  --alpha-6: #e5e5e5;
+  --alpha-7: #b0b0b0;
+
+  --beta: #000;
+  --beta-1: #000;
+  --beta-2: #0d0d0d;
+  --beta-3: #2b2b2b;
+  --beta-4: #111;
+  --beta-5: #848484;
+  --beta-6: #d0d0d0;
+
+  --link-number: #6600ab;
+  --link-text: #000981;
+}
+
+.dark {
+  --accent-alpha: rgb(0 200 200);
+  --accent-beta: rgb(150 0 0);
+  --omni-bg: #262626;
+  --omni-txt: #fff;
+
+  --alpha: #000;
+  --alpha-1: #0e0e0e;
+  --alpha-2: #0a0a0a;
+  --alpha-3: #141313;
+  --alpha-4: #1a1a1a;
+  --alpha-5: #262626;
+  --alpha-6: #232323;
+  --alpha-7: #3e3e3e;
+
+  --beta: #fff;
+  --beta-1: #fafafa;
+  --beta-2: #e6e6e6;
+  --beta-3: #dcdcdc;
+  --beta-4: #d4d4d4;
+  --beta-5: #a1a1a1;
+  --beta-6: #5d5d5d;
+
+  --link-number: #b343ff;
+  --link-text: #646eff;
+}

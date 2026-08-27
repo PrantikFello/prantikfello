@@ -1,0 +1,60 @@
+[
+  {
+    "id": "quote-fetcher",
+    "name": "Quote Fetcher",
+    "description": "An android App that fetches quotes from api and displays over a custom background image.",
+    "version": "v0.1.0",
+    "repoUrl": "https://github.com/PrantikFello/fifty-feed",
+    "isPublic": true,
+    "downloadUrl": "https://github.com/PrantikFello/fifty-feed/releases/download/fifty-feed/fifty-feed_v0.1.0.apk",
+    "updatedAt": "2026-08-27T10:00:00Z",
+    "techStack": [
+      {
+        "name": "Kotlin",
+        "category": "language"
+      },
+      {
+        "name": "Jetpack Compose",
+        "category": "framework"
+      },
+      {
+        "name": "Gradle",
+        "category": "tool"
+      },
+      {
+        "name": "Android Studio",
+        "category": "tool"
+      }
+    ]
+  },
+  {
+    "id": "khagarpur-website",
+    "name": "Khagarpur Website",
+    "description": "Khagarpur Village website, where all the local businesses and community hotspots find and online presence.",
+    "version": "v0.1.0",
+    "repoUrl": "https://github.com/PrantikFello/khagarpur.com",
+    "isPublic": false,
+    "webpageUrl": "https://khagarpur-com.khagarpur.workers.dev",
+    "updatedAt": "2026-08-20T10:00:00Z",
+    "techStack": [
+      {
+        "name": "JS",
+        "category": "language"
+      },{
+        "name": "TS",
+        "category": "language"
+      },{
+        "name": "Tailwind",
+        "category": "language"
+      },
+      {
+        "name": "NextJS",
+        "category": "framework"
+      },
+      {
+        "name": "Bun",
+        "category": "tool"
+      }
+    ]
+  }
+]

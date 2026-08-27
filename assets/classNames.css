@@ -1,0 +1,44 @@
+@import 'tailwindcss';
+
+@layer utilities {
+  .snap_container {
+    @apply snap-y snap-proximity overflow-y-auto h-[calc(100vh-65px)];
+  }
+  .snap_div {
+    @apply snap-start h-[calc(100vh-65px)] overflow-hidden;
+  }
+}
+
+/* app/globals.css */
+
+@font-face {
+  font-family: 'LeagueScript';
+  src: url('/fonts/LeagueScript-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MrsSaintDelafield';
+  src: url('/fonts/MrsSaintDelafield-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'QwitcherGrypen';
+  src: url('/fonts/QwitcherGrypen-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Shalimar';
+  src: url('/fonts/Shalimar-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
