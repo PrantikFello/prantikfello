@@ -2,27 +2,15 @@
     "heroLinks": [
         {
             "platform": "github",
-            "url": "https://github.com/your-username"
+            "url": "https://github.com/PrantikFello"
         },
         {
             "platform": "linkedin",
-            "url": "https://linkedin.com/in/your-username"
-        },
-        {
-            "platform": "youtube",
-            "url": "https://youtube.com/@your-channel"
-        },
-        {
-            "platform": "telegram",
-            "url": "https://t.me/your-username"
-        },
-        {
-            "platform": "whatsapp",
-            "url": "https://wa.me/your-number"
-        },
+            "url": "https://www.linkedin.com/in/prantik-roy-32511a286"
+        },        
         {
             "platform": "email",
-            "url": "mailto:prantik@example.co"
+            "url": "mailto:prantikroy33@gmail.com"
         }
     ]
 }
