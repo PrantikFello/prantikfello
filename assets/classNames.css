@@ -2,7 +2,7 @@
 
 @layer utilities {
   .snap_container {
-    @apply snap-y snap-proximity overflow-y-auto h-[calc(100vh-65px)];
+    @apply snap-y snap-mandatory overflow-y-auto h-[calc(100vh-65px)];
   }
   .snap_div {
     @apply snap-start h-[calc(100vh-65px)] overflow-hidden;

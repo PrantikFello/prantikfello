@@ -36,7 +36,7 @@ export default function ProfilePage() {
                 </div>
             </div>
 
-            <div className="snap_di">
+            <div className="snap_div">
                 <Skills />
             </div>
 

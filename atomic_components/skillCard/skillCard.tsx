@@ -140,8 +140,8 @@ export const SkillCard: React.FC<SkillCardProps> = ({
           <span
             className={`absolute inset-[-1000%] bg-[conic-gradient(from_90deg_at_50%_50%,transparent_0%,var(--color-accent-beta,#38bdf8)_50%,transparent_100%)] ${
               animated === "hover"
-                ? "opacity-0 transition-opacity duration-300 group-hover:opacity-100 group-hover:animate-[spin_4s_linear_infinite]"
-                : "animate-[spin_4s_linear_infinite]"
+                ? "opacity-0 transition-opacity duration-1000 group-hover:opacity-100 group-hover:animate-[spin_10s_linear_infinite]"
+                : "animate-[spin_10s_linear_infinite]"
             }`}
             aria-hidden="true"
           />
@@ -212,7 +212,7 @@ export const SkillCardIterator: React.FC<SkillCardIteratorProps> = ({
       {orbits.map((orbit, index) => (
         <div
           key={orbit?.tier ?? `orbit-${index}`}
-          className="flex odd:justify-start even:justify-end"
+          className="flex odd:justify-start odd:md:ps-[clamp(10px,10vw,300px)] even:justify-end even:md:pe-[clamp(10px,10vw,300px)]"
         >
           <SkillCard
             head={formatTierHead(orbit?.tier)}

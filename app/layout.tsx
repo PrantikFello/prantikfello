@@ -48,21 +48,21 @@ export default function RootLayout({
               <div className="flex gap-1 text-sm font-medium md:gap-3">
                 <Link
                   href="/Profile"
-                  className="transition-colors hover:opacity-80 font-bold"
+                  className="transition-colors hover:opacity-80 font-bold underline "
                   style={{ color: "var(--link-text)" }}
                 >
                   Profile
                 </Link>
                 <Link
                   href="/MyProjects"
-                  className="transition-colors hover:opacity-80 font-bold"
+                  className="transition-colors hover:opacity-80 font-bold underline "
                   style={{ color: "var(--link-text)" }}
                 >
                   Projects
                 </Link>
                 <Link
                   href="/PlantRepo"
-                  className="transition-colors hover:opacity-80 font-bold"
+                  className="transition-colors hover:opacity-80 font-bold underline "
                   style={{ color: "var(--link-text)" }}
                 >
                   Ground
